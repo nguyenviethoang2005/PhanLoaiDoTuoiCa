@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Dataset lớn
+dataset/raw/
+dataset/processed/
+dataset/yolo/images/
+dataset/yolo/labels/
+
+# Training runs
+runs/
+
+# Temporary files
+.DS_Store
+Thumbs.db
