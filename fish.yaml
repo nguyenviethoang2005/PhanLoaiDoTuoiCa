@@ -1,0 +1,10 @@
+path: D:/Fish_Freshness_Detection/dataset/yolo
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+
+names:
+  0: fish_fillet
